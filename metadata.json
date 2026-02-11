@@ -1,0 +1,8 @@
+{
+  "name": "GRIET SmartCampus",
+  "description": "An intelligent virtual assistant for GRIET Hyderabad, featuring voice interaction, exam fee tracking, and academic management tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
